@@ -1,5 +1,7 @@
 # CAMINHANTE
 
+<!--
+
 let palavra;
 
 function setup() {
